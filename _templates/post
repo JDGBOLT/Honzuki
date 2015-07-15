@@ -1,0 +1,13 @@
+---
+layout: {{ layout }}
+title: {{ title }}
+modified:
+categories: chapter
+excerpt:
+tags: []
+comments: true
+image:
+  feature:
+  teaser:
+  thumb:
+---
