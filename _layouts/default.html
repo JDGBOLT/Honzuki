@@ -38,7 +38,7 @@
       {{ content }}
       {% include footer.html %}
     </div>
-
+    {% if site.owner.google.analytics %}{% include analytics.html %}{% endif %}
     <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
     <script src="{{ site.url }}/js/main.js"></script>
 
