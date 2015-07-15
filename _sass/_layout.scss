@@ -178,8 +178,6 @@
 			.page-footer,
 			.pagination {
 				@include fill-parent;
-                                .next {text-align: right;}
-                                .prev {text-align: left;}
 			}
 			.page-meta {
 				p{
