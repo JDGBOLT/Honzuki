@@ -28,6 +28,7 @@ owner:
   google:
     ad-client: 
     ad-slot: 
+    analytics: UA-65158297-1
   bio: 
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: honquki
