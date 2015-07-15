@@ -24,9 +24,9 @@ title: "Webnovel Information and Latest Posts"
 **Amazon Links with Cover Images**
 
 <figure class="third">
-   <a href="http://www.amazon.co.jp/dp/4864723427/"><img src="http://ecx.images-amazon.com/images/I/911iiiiK74L._SL1500_.jpg"></a>
-   <a href="http://www.amazon.co.jp/dp/4864723478/"><img src="http://ecx.images-amazon.com/images/I/91k%2Bgc4H6-L._SL1500_.jpg"></a>
-   <a href="http://www.amazon.co.jp/dp/4864723974/"><img src="http://ecx.images-amazon.com/images/I/917qtPd5kfL.jpg"></a>
+   <a href="http://www.amazon.co.jp/dp/4864723427/"><img src="images/cover_1.jpg"></a>
+   <a href="http://www.amazon.co.jp/dp/4864723478/"><img src="images/cover_2.jpg"></a>
+   <a href="http://www.amazon.co.jp/dp/4864723974/"><img src="images/cover_3.jpg"></a>
 </figure>
 
 ### **Last 4 released chapters, for others click the menu to the top right**
