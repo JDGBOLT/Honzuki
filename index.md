@@ -17,7 +17,7 @@ title: "Webnovel Information and Latest Posts"
 
 **Source Webnovel:** [http://ncode.syosetu.com/n4830bu/](http://ncode.syosetu.com/n4830bu/)
 
-**[Chapter List](chapter/)**
+**[Chapter List](http://jdgbolt.github.io/honzuki/chapter/)**
 
 ### **Links to purchase to support the Author**
 
